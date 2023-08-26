@@ -6,6 +6,7 @@
 I try to collaborate in all functions of computer science to gain experience.
 - 📫 How to reach me: Wagnerstefano98@hotmail.com
 🐱‍🏍🐱‍👓
+- Full Stack in progress 25%
 <!---
 WagnerStefano/WagnerStefano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
