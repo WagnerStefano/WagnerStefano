@@ -18,9 +18,11 @@ Projetos em Destaque
 Projeto 1 - EDR:
 Descrição breve: O que é: o EDR (Endpoint Detection and Response) é um sistema de verificação para códigos maliciosos e resposta automatizada que pode gerar um relatório sobre a ameaça e finalizar a sua execução, com as funcionalidades básicas de Monitoramento de processos, Detecção de Execução de scripts maliciosos, Registro de Eventos no sistema e Respostas Automatizadas.
 Link do Projeto: https://github.com/WagnerStefano/EDR
+<br>
 
 Projeto 2 – LinkViewer
 Descrição breve: Desenvolvimento de uma solução de monitoramento de internet para 3 Links, seguindo Loadbalance e demandas especificas de monitoramento de salas especificas.
+<br>
 
 
 <div> <img width="42%" src="https://github-readme-stats.vercel.app/api?username=wagnerStefano&show_icons=true&theme=dracula&include_allcommits=true&count_private=true"/> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerStefano&layout=compact&langs_count=16&theme=dracula"/> </div>
